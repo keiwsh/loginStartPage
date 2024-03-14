@@ -1,2 +1,4 @@
-# weatherApp
-A weather app pair-programmed with @ibrazqrj
+# loginStartingPage
+A login page pair-programmed by @keiwsh & @ibrazqrj
+
+
